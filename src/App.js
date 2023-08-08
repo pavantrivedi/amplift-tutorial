@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello amplify
+          pavan amplify1112vv
         </a>
       </header>
     </div>
